@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @cg-manish
+/src/backend/database.py      @cg-manish
+/src/backend/routers/auth.py  @cg-manish
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @cg-manish
